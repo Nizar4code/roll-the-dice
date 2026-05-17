@@ -332,6 +332,19 @@ class StyledText extends StatelessWidget {
 - [Flutter Widgets Catalog](https://docs.flutter.dev/development/ui/widgets)
 - [Material Design](https://material.io/)
 
+- **Udemy Course (sumber belajar utama):** https://www.udemy.com/share/101rfI3@wYbVOUydNrf5xM4r9AM_2DpToW6AeeM8g7wSTVRQsuqbu5OUovFWllKOqNAATDF3Nw==/  
+  Catatan: Saya mengikuti kursus Udemy ini sebagai panduan praktis. Materi yang dipelajari dari kursus(App pertama yaitu ROLL DICE APP) ini meliputi:
+  - Pengenalan Flutter dan Dart
+  - Struktur project dan manajemen asset
+  - Perbedaan `StatelessWidget` dan `StatefulWidget`
+  - Pengelolaan state sederhana dengan `setState()`
+  - Layout dasar menggunakan `Column`, `Row`, `Container`, dan `Center`
+  - Styling teks dan tombol, serta penggunaan `TextButton` dan `TextStyle`
+  - Menampilkan gambar dari `assets` dan konfigurasi `pubspec.yaml`
+  - Penggunaan `Random` untuk logika sederhana (mis. roll dadu)
+  - Membuat widget custom untuk meningkatkan reusability
+  - Tips debugging dan best practices dalam pengembangan Flutter
+
 ---
 
 ## ✨ Key Takeaways
